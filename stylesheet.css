@@ -7,3 +7,21 @@
 #londonhead{
     background-color: pink;
 }
+
+span{
+    padding-left:  5px;
+    padding-right: 5px;
+    border-top: 2px solid black;
+    border-bottom: 4px solid grey;
+
+}
+.pgraph{
+    border: 10px lightgreen ridge;
+    margin: 5px;
+
+}
+
+h1{
+    font-family: sans-serif, Roboto;
+    text-align: center;
+}
